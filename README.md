@@ -1,5 +1,7 @@
 # YouExpress-V2
 
+
+```bash
 YouExpress-V2/
 │
 ├── docker-compose.yml        # [ORCHESTRATION] Définit les services (db, backend, frontend)
@@ -102,3 +104,5 @@ YouExpress-V2/
     ├── conftest.py
     ├── test_auth.py
     └── test_flow_v2.py
+
+```
